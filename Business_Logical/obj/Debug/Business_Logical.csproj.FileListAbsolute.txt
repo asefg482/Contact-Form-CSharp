@@ -1,0 +1,14 @@
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\bin\Debug\Business_Logical.dll
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\bin\Debug\Business_Logical.pdb
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\bin\Debug\Business_Entity.dll
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\bin\Debug\Data_Access.dll
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\bin\Debug\EntityFramework.dll
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\bin\Debug\Business_Entity.pdb
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\bin\Debug\Data_Access.pdb
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\bin\Debug\Data_Access.dll.config
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\bin\Debug\EntityFramework.xml
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\obj\Debug\Business_Logical.csprojAssemblyReference.cache
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\obj\Debug\Business_Logical.csproj.CoreCompileInputs.cache
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\obj\Debug\Business_Logical.csproj.CopyComplete
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\obj\Debug\Business_Logical.dll
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Logical\obj\Debug\Business_Logical.pdb

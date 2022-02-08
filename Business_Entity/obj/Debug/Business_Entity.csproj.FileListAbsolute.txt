@@ -1,0 +1,5 @@
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Entity\bin\Debug\Business_Entity.dll
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Entity\bin\Debug\Business_Entity.pdb
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Entity\obj\Debug\Business_Entity.csproj.CoreCompileInputs.cache
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Entity\obj\Debug\Business_Entity.dll
+C:\Users\Asef\Desktop\Contacts_Vahedi\Business_Entity\obj\Debug\Business_Entity.pdb

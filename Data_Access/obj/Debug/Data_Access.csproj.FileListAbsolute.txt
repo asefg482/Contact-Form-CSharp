@@ -1,0 +1,14 @@
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\bin\Debug\Data_Access.dll.config
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\bin\Debug\Data_Access.dll
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\bin\Debug\Data_Access.pdb
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\bin\Debug\Business_Entity.dll
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\bin\Debug\EntityFramework.dll
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\bin\Debug\Business_Entity.pdb
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\bin\Debug\EntityFramework.xml
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\obj\Debug\Data_Access.csprojAssemblyReference.cache
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\obj\Debug\Data_Access.csproj.CoreCompileInputs.cache
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\obj\Debug\Data_Access.csproj.CopyComplete
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\obj\Debug\Data_Access.dll
+C:\Users\Asef\Desktop\Contacts_Vahedi\Data_Access\obj\Debug\Data_Access.pdb
